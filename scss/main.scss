@@ -8,7 +8,8 @@ $error: #ff2d26;
 $progress-height: 10px;
 
 body {
-  background: $primary;
+  background-color: #2a2a72;
+  background-image: linear-gradient(315deg, #2a2a72 0%, #009ffd 74%);
   font-family: "Roboto", sans-serif;
   margin: 0;
 }
